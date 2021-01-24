@@ -1,0 +1,38 @@
+.wrapper {
+  padding-top: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.dataWrapper {
+  display: flex;
+}
+.imagesWrapper {
+  min-width: 250px;
+  width: 250px;
+  height: auto;
+}
+.poster {
+  width: 100%;
+  height: auto;
+}
+.infoWrapper {
+  padding: 15px;
+  width: 75%;
+}
+.filmTitle {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.boldText {
+  font-weight: bold;
+}
+.genreStyle {
+  margin: 0 5px;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: #e5e5e5;
+}
+p {
+  margin-bottom: 15px;
+}
